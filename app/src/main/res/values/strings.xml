@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Lover\'s Wallpaper</string>
+
+    <string-array name="renkler">
+        <item>Black</item>
+        <item>White</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Pink</item>
+    </string-array>
+    <string-array name="size">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="font">
+        <item>Font 1</item>
+        <item>Font 2</item>
+        <item>Font 3</item>
+        <item>Font 4</item>
+        <item>Font 5</item>
+        <item>Font 6</item>
+        <item>Font 7</item>
+        <item>Font 8</item>
+    </string-array>
+
+</resources>
